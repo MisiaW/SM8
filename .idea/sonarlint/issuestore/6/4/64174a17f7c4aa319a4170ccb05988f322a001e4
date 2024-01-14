@@ -1,0 +1,15 @@
+
+J
+java:S1604?"(Make this anonymous inner class a lambda(“«ì×ıÿÿÿÿ8ö¦É§Ã1
+^
+java:S1075-"ARefactor your code to get this URI from a customizable parameter.(¥¾Ğé8ŠğÈ§Ã1
+`
+java:S1874C">Remove this use of "startActivityForResult"; it is deprecated.(ëÖƒ øÿÿÿÿ8âªÉ§Ã1
+f
+java:S1874f"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(¹Î¾8ıªÉ§Ã1
+„
+java:S3252m"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(±ÿƒÔ8«É§Ã1
+‰
+java:S3252q"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(Œ¦ˆüÿÿÿÿ8Ÿ«É§Ã1
+H
+java:S1068&"+Remove this unused "binding" private field.(¶ÃÊ8×ñÈ§Ã1

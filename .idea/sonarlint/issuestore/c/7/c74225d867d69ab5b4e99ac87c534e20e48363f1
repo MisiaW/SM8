@@ -1,0 +1,25 @@
+
+P
+java:S1128".Remove this unused import 'android.os.Bundle'.(°şÊóøÿÿÿÿ8ïÃÓ§Ã1
+g
+java:S1128"JRemove this unused import 'com.google.android.material.snackbar.Snackbar'.(ë„ƒŠ8ğÃÓ§Ã1
+b
+java:S1128"ERemove this unused import 'androidx.appcompat.app.AppCompatActivity'.(€¶£î8ñÃÓ§Ã1
+P
+java:S1128	".Remove this unused import 'android.view.View'.(Ø½­äşÿÿÿÿ8ñÃÓ§Ã1
+^
+java:S1128"<Remove this unused import 'androidx.core.view.WindowCompat'.(†Æ×èşÿÿÿÿ8òÃÓ§Ã1
+`
+java:S1128">Remove this unused import 'androidx.navigation.NavController'.(ˆç×ƒÿÿÿÿÿ8óÃÓ§Ã1
+]
+java:S1128";Remove this unused import 'androidx.navigation.Navigation'.(ÄíÚÀÿÿÿÿÿ8õÃÓ§Ã1
+i
+java:S1128"GRemove this unused import 'androidx.navigation.ui.AppBarConfiguration'.(È¸›şÿÿÿÿ8¶ÄÓ§Ã1
+b
+java:S1128"@Remove this unused import 'androidx.navigation.ui.NavigationUI'.(„¾¯Êüÿÿÿÿ8·ÄÓ§Ã1
+p
+java:S1128"SRemove this unused import 'com.example.libraryapp.databinding.ActivityMainBinding'.(İÒê¯8¸ÄÓ§Ã1
+K
+java:S1128".Remove this unused import 'android.view.Menu'.(£¯Ò…8¸ÄÓ§Ã1
+O
+java:S1128"2Remove this unused import 'android.view.MenuItem'.(Ğ¬Ó‘8¸ÄÓ§Ã1
